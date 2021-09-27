@@ -1,4 +1,4 @@
-name: mp2i-pv
+name: mp2i-pv-binder
 
 channels:
   - QuantStack
